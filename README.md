@@ -2,6 +2,8 @@
 
 FundTogether is a modern, responsive crowdfunding platform designed to help communities fund projects that matter to them. Built with HTML, Tailwind CSS, and vanilla JavaScript, this platform provides an intuitive and engaging user experience.
 
+CHECK OUT - https://fundtogether.netlify.app/
+
 ## Features
 
 - Responsive design that works on all devices
